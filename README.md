@@ -1,4 +1,4 @@
-# Project Title
+# Career development platform
 Career development platform for the Building AI course
 
 ## Summary
