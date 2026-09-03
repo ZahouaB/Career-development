@@ -1,4 +1,4 @@
-# Project title
+# Career development platform
 Final project for the Building AI course
 
 ## Summary
