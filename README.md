@@ -1,5 +1,5 @@
-# Career development platform
-Final project for the Building AI course
+# Project Title
+Career development platform for the Building AI course
 
 ## Summary
 An AI-powered career development platform that helps individuals discover fulfilling career paths by analyzing their skills, education, experience, interests, and aspirations. The platform identifies potential career opportunities, highlights skill gaps, and recommends personalized learning pathways to support career growth and successful transitions.
